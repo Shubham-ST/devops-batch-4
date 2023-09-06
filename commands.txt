@@ -4,3 +4,7 @@ git add
 git commit -m ""
 gti remote -v
 git clone
+git pull origin main
+git push
+git fetch
+
